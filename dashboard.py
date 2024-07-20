@@ -49,7 +49,7 @@ def page_1():
             ## Eng so'nggi IMDb(Internet film bazasi)dagi Top 250ta seriyallarni epizodlar reytinglari
 """)
     st.dataframe(df)
-    
+    st.write(df.shape)
     
 
 
@@ -200,6 +200,7 @@ def page_1():
 
     st.header('IMDb top 250ta seriyallarni epizodlar reytingi')
     st.dataframe(data) 
+    st.write(data.shape)
     # st.header('IMDb top 250ta seriyallarni global reytingi') 
     # st.dataframe(view)
 # -----------------------------------------------------------------------------------------------------------------------------------------------
