@@ -286,13 +286,6 @@ def page_2():
         ax.set_ylabel('Frequency')
         st.pyplot(fig)
 
-        fig, ax = plt.subplots()
-        sns.histplot(view1['Duration (min)'], bins=20, kde=True, color='salmon', ax=ax)
-        ax.set_title('Histogram of Duration (min)')
-        ax.set_xlabel('Duration (min)')
-        ax.set_ylabel('Frequency')
-        st.pyplot(fig)
-
     
 
     elif select_box == 'Scatterplot':
