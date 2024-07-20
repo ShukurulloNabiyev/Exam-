@@ -230,7 +230,8 @@ def page_2():
     dct = view1.groupby('Type')['Type'].count().to_dict()
     fig, ax =plt.subplots()
 
-
+    with st.expander('Jadvalni ko\'rish'):
+        st.dataframe(view1) 
 
 
     
