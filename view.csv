@@ -1,0 +1,251 @@
+Imdb Rank,Title,Total Episode,Type,Mean Episode Rating,Mean Episode Rating Count,Global Rating,Global Rating Count,Duration (min),Genres,Start Year,End Year,url
+1.0,Breaking Bad,62,TV Series,9.0,34995.0,9.5,2106387.0,45.0,"Crime ,Drama ,Thriller",2008,2013.0,https://www.imdb.com/title/tt0903747
+2.0,Planet Earth II,6,TV Mini Series,9.0,3556.5,9.5,156311.0,298.0,Documentary,2016,2016.0,https://www.imdb.com/title/tt5491994
+3.0,Planet Earth,11,TV Mini Series,8.8,3104.4,9.4,218687.0,538.0,"Documentary ,Family",2006,2006.0,https://www.imdb.com/title/tt0795176
+4.0,Band of Brothers,10,TV Mini Series,9.0,9542.9,9.4,518235.0,594.0,"Drama ,History ,War",2001,2001.0,https://www.imdb.com/title/tt0185906
+5.0,Chernobyl,5,TV Mini Series,9.5,52849.8,9.3,851248.0,330.0,"Drama ,History ,Thriller",2019,2019.0,https://www.imdb.com/title/tt7366338
+6.0,The Wire,60,TV Series,8.6,4616.6,9.3,372513.0,59.0,"Crime ,Drama ,Thriller",2002,2008.0,https://www.imdb.com/title/tt0306414
+7.0,Avatar: The Last Airbender,62,TV Series,8.6,5215.1,9.3,356635.0,23.0,"Animation ,Action ,Adventure",2005,2008.0,https://www.imdb.com/title/tt0417299
+8.0,Blue Planet II,7,TV Mini Series,8.9,1150.7,9.3,45730.0,364.0,Documentary,2017,2017.0,https://www.imdb.com/title/tt6769208
+9.0,The Sopranos,86,TV Series,8.6,7433.7,9.2,461751.0,55.0,"Crime ,Drama",1999,2007.0,https://www.imdb.com/title/tt0141842
+10.0,Cosmos: A Spacetime Odyssey,13,TV Mini Series,9.0,2076.2,9.3,127454.0,557.0,Documentary,2014,2014.0,https://www.imdb.com/title/tt2395695
+11.0,Cosmos,13,TV Mini Series,8.9,575.8,9.3,43536.0,780.0,Documentary,1980,1980.0,https://www.imdb.com/title/tt0081846
+12.0,Our Planet,12,TV Series,8.9,1332.3,9.3,50166.0,50.0,Documentary,2019,2023.0,https://www.imdb.com/title/tt9253866
+13.0,Game of Thrones,74,TV Series,8.7,58781.1,9.2,2258992.0,55.0,"Action ,Adventure ,Drama",2011,2019.0,https://www.imdb.com/title/tt0944947
+14.0,The World at War,26,TV Series,8.6,410.4,9.2,28241.0,1336.0,"Documentary ,History ,War",1973,1974.0,https://www.imdb.com/title/tt0071075
+15.0,Bluey,168,TV Series,8.3,354.3,9.4,24186.0,7.0,"Animation ,Family",2018,2050.0,https://www.imdb.com/title/tt7678620
+16.0,Rick and Morty,74,TV Series,8.2,11985.6,9.1,593634.0,23.0,"Animation ,Adventure ,Comedy",2013,2050.0,https://www.imdb.com/title/tt2861424
+17.0,Fullmetal Alchemist: Brotherhood,54,TV Series,8.1,1871.9,9.1,194252.0,24.0,"Animation ,Action ,Adventure",2009,2010.0,https://www.imdb.com/title/tt1355642
+18.0,Life,11,TV Mini Series,8.5,523.9,9.1,42569.0,473.0,"Documentary ,Family",2009,2009.0,https://www.imdb.com/title/tt1533395
+19.0,The Last Dance,10,TV Mini Series,9.1,3596.3,9.1,149125.0,491.0,"Documentary ,Biography ,History",2020,2020.0,https://www.imdb.com/title/tt8420184
+20.0,The Twilight Zone,156,TV Series,7.4,2962.9,9.1,92165.0,51.0,"Drama ,Fantasy ,Horror",1959,1964.0,https://www.imdb.com/title/tt0052520
+21.0,Sherlock,15,TV Series,8.7,29019.1,9.1,988220.0,88.0,"Crime ,Drama ,Mystery",2010,2017.0,https://www.imdb.com/title/tt1475582
+22.0,The Vietnam War,10,TV Mini Series,8.6,765.0,9.1,27613.0,990.0,"Documentary ,History ,War",2017,2017.0,https://www.imdb.com/title/tt1877514
+23.0,Batman: The Animated Series,75,TV Series,7.9,2019.0,9.0,115320.0,23.0,"Animation ,Action ,Adventure",1992,1995.0,https://www.imdb.com/title/tt0103359
+24.0,Attack on Titan,98,TV Series,9.0,29207.9,9.1,497554.0,24.0,"Animation ,Action ,Adventure",2013,2023.0,https://www.imdb.com/title/tt2560140
+25.0,Scam 1992: The Harshad Mehta Story,10,TV Mini Series,9.0,2020.0,9.3,155404.0,54.0,"Biography ,Crime ,Drama",2020,2020.0,https://www.imdb.com/title/tt12392504
+26.0,The Office,202,TV Series,8.1,5933.3,9.0,698370.0,22.0,Comedy,2005,2013.0,https://www.imdb.com/title/tt0386676
+27.0,The Blue Planet,8,TV Mini Series,8.2,743.6,9.0,42393.0,389.0,Documentary,2001,2001.0,https://www.imdb.com/title/tt0296310
+28.0,Arcane,10,TV Series,9.0,13373.2,9.0,262102.0,41.0,"Animation ,Action ,Adventure",2021,2050.0,https://www.imdb.com/title/tt11126994
+29.0,Better Call Saul,63,TV Series,8.8,17930.1,9.0,635337.0,3154.0,"Crime ,Drama",2015,2022.0,https://www.imdb.com/title/tt3032476
+30.0,Human Planet,8,TV Mini Series,8.5,409.5,9.0,27661.0,50.0,Documentary,2011,2011.0,https://www.imdb.com/title/tt1806234
+31.0,Firefly,14,TV Series,8.7,5103.2,9.0,279809.0,616.0,"Adventure ,Drama ,Sci-Fi",2002,2003.0,https://www.imdb.com/title/tt0303461
+32.0,Frozen Planet,10,TV Mini Series,8.2,604.4,9.0,32759.0,333.0,Documentary,2011,2012.0,https://www.imdb.com/title/tt2092588
+33.0,Clarkson's Farm,18,TV Series,8.8,1047.9,9.0,54231.0,45.0,"Documentary ,Comedy ,Reality-TV",2021,2050.0,https://www.imdb.com/title/tt10541088
+34.0,Hunter x Hunter,50,TV Series,7.9,1500.6,9.0,130361.0,24.0,"Animation ,Action ,Adventure",2011,2014.0,https://www.imdb.com/title/tt2098220
+35.0,Only Fools and Horses,64,TV Series,8.3,640.0,9.0,56202.0,95.0,Comedy,1981,2003.0,https://www.imdb.com/title/tt0081912
+36.0,Death Note,37,TV Series,8.1,4584.5,8.9,371946.0,24.0,"Animation ,Crime ,Drama",2006,2007.0,https://www.imdb.com/title/tt0877057
+37.0,The Civil War,9,TV Mini Series,8.6,375.9,9.0,18238.0,680.0,"Documentary ,History ,War",1990,1990.0,https://www.imdb.com/title/tt0098769
+38.0,True Detective,30,TV Series,8.1,13729.9,8.9,640893.0,55.0,"Crime ,Drama ,Mystery",2014,2050.0,https://www.imdb.com/title/tt2356777
+39.0,Seinfeld,173,TV Series,8.3,4036.9,8.9,347633.0,22.0,Comedy,1989,1998.0,https://www.imdb.com/title/tt0098904
+40.0,The Decalogue,10,TV Mini Series,8.1,4623.1,8.9,27638.0,572.0,Drama,1989,1990.0,https://www.imdb.com/title/tt0092337
+41.0,The Beatles: Get Back,3,TV Mini Series,9.1,1818.0,9.0,27574.0,468.0,"Documentary ,Biography ,Music",2021,2021.0,https://www.imdb.com/title/tt9735318
+42.0,Persona,22,TV Series,8.1,760.5,9.0,46871.0,60.0,"Crime ,Drama ,Mystery",2018,2050.0,https://www.imdb.com/title/tt7920978
+43.0,Gravity Falls,41,TV Series,8.6,3203.0,8.9,132016.0,23.0,"Animation ,Adventure ,Comedy",2012,2016.0,https://www.imdb.com/title/tt1865718
+44.0,Cowboy Bebop,26,TV Series,8.2,3169.6,8.9,136508.0,650.0,"Animation ,Action ,Adventure",1998,1999.0,https://www.imdb.com/title/tt0213338
+45.0,Fargo,51,TV Series,8.3,6333.6,8.9,415451.0,53.0,"Crime ,Drama ,Thriller",2014,2024.0,https://www.imdb.com/title/tt2802850
+46.0,Nathan for You,32,TV Series,8.6,993.6,8.9,37719.0,30.0,"Documentary ,Comedy",2013,2017.0,https://www.imdb.com/title/tt2297757
+47.0,Apocalypse: The Second World War,6,TV Mini Series,8.6,400.0,9.0,14101.0,312.0,"Documentary ,History ,War",2009,2009.0,https://www.imdb.com/title/tt1508238
+48.0,Last Week Tonight with John Oliver,343,TV Series,7.8,255.0,8.9,95033.0,30.0,"Comedy ,News ,Talk-Show",2014,2050.0,https://www.imdb.com/title/tt3530232
+49.0,When They See Us,4,TV Mini Series,9.0,6050.2,8.9,136347.0,296.0,"Biography ,Crime ,Drama",2019,2019.0,https://www.imdb.com/title/tt7137906
+50.0,Taskmaster,161,TV Series,8.0,164.6,9.0,18911.0,47.0,"Comedy ,Game-Show",2015,2050.0,https://www.imdb.com/title/tt4934214
+51.0,Succession,39,TV Series,8.8,9497.8,8.8,263443.0,2409.0,"Comedy ,Drama",2018,2023.0,https://www.imdb.com/title/tt7660850
+52.0,Friends,234,TV Series,8.3,5326.0,8.9,1077265.0,5280.0,"Comedy ,Romance",1994,2004.0,https://www.imdb.com/title/tt0108778
+53.0,Africa,7,TV Mini Series,8.4,433.4,8.9,17031.0,360.0,Documentary,2013,2013.0,https://www.imdb.com/title/tt2571774
+54.0,As If,43,TV Series,8.0,1099.3,9.0,20755.0,30.0,Comedy,2021,2050.0,https://www.imdb.com/title/tt13675832
+55.0,TVF Pitchers,10,TV Series,8.7,684.4,9.1,72084.0,40.0,"Comedy ,Drama",2015,2022.0,https://www.imdb.com/title/tt4742876
+56.0,It's Always Sunny in Philadelphia,172,TV Series,8.4,3080.3,8.8,249113.0,22.0,Comedy,2005,2050.0,https://www.imdb.com/title/tt0472954
+57.0,Monty Python's Flying Circus,45,TV Series,8.0,946.6,8.8,78355.0,30.0,Comedy,1969,1974.0,https://www.imdb.com/title/tt0063929
+58.0,The West Wing,155,TV Series,8.2,915.2,8.9,84633.0,44.0,Drama,1999,2006.0,https://www.imdb.com/title/tt0200276
+59.0,Das Boot,3,TV Mini Series,8.7,355.7,8.8,33093.0,293.0,"Drama ,War",1985,1985.0,https://www.imdb.com/title/tt0081834
+60.0,Curb Your Enthusiasm,120,TV Series,8.3,1679.8,8.8,142212.0,28.0,Comedy,2000,2024.0,https://www.imdb.com/title/tt0264235
+61.0,One Piece,61,TV Series,7.4,2058.6,9.0,224477.0,24.0,"Animation ,Action ,Adventure",1999,2050.0,https://www.imdb.com/title/tt0388629
+62.0,BoJack Horseman,77,TV Series,8.4,5228.0,8.8,185155.0,1982.0,"Animation ,Comedy ,Drama",2014,2020.0,https://www.imdb.com/title/tt3398228
+63.0,Fawlty Towers,12,TV Series,8.8,2242.2,8.8,99481.0,30.0,Comedy,1975,1979.0,https://www.imdb.com/title/tt0072500
+64.0,Leyla and Mecnun,144,TV Series,8.5,302.2,9.1,96105.0,80.0,"Adventure ,Comedy ,Drama",2011,2023.0,https://www.imdb.com/title/tt1831164
+65.0,Pride and Prejudice,6,TV Mini Series,8.4,914.3,8.8,91491.0,327.0,"Drama ,Romance",1995,1995.0,https://www.imdb.com/title/tt0112130
+66.0,Freaks and Geeks,18,TV Series,8.7,2003.9,8.8,152162.0,799.0,"Comedy ,Drama",1999,2000.0,https://www.imdb.com/title/tt0193676
+67.0,Blackadder Goes Forth,6,TV Series,8.7,1212.0,8.8,56433.0,175.0,"Comedy ,War",1989,1989.0,https://www.imdb.com/title/tt0096548
+68.0,Twin Peaks,48,TV Series,8.2,5077.5,8.8,213133.0,1505.0,"Crime ,Drama ,Mystery",1990,1991.0,https://www.imdb.com/title/tt0098936
+69.0,Dragon Ball Z,327,TV Series,7.7,1426.6,8.8,145342.0,24.0,"Animation ,Action ,Adventure",1989,1996.0,https://www.imdb.com/title/tt0214341
+70.0,Narcos,30,TV Series,8.7,5432.9,8.8,465025.0,49.0,"Biography ,Crime ,Drama",2015,2017.0,https://www.imdb.com/title/tt2707408
+71.0,Chappelle's Show,33,TV Series,7.9,506.3,8.8,71191.0,22.0,"Comedy ,Music",2003,2006.0,https://www.imdb.com/title/tt0353049
+72.0,Dragon Ball Z,327,TV Series,7.5,1350.8,8.8,86733.0,24.0,"Animation ,Action ,Adventure",1989,1996.0,https://www.imdb.com/title/tt0121220
+73.0,Reply 1988,20,TV Series,8.4,147.3,9.1,10470.0,90.0,"Comedy ,Drama ,Family",2015,2016.0,https://www.imdb.com/title/tt5182866
+74.0,"I, Claudius",13,TV Mini Series,8.6,384.1,8.8,19192.0,669.0,"Biography ,Drama ,History",1976,1976.0,https://www.imdb.com/title/tt0074006
+75.0,Black Mirror,29,TV Series,7.6,45226.2,8.7,632179.0,60.0,"Drama ,Mystery ,Sci-Fi",2011,2050.0,https://www.imdb.com/title/tt2085059
+76.0,South Park,330,TV Series,8.0,3058.0,8.7,402999.0,22.0,"Animation ,Comedy",1997,2050.0,https://www.imdb.com/title/tt0121955
+77.0,Over the Garden Wall,10,TV Mini Series,8.4,2333.3,8.8,69152.0,22.0,"Animation ,Short ,Adventure",2014,2014.0,https://www.imdb.com/title/tt3718778
+78.0,Ted Lasso,34,TV Series,8.3,7615.3,8.8,337971.0,1453.0,"Comedy ,Drama ,Sport",2020,2023.0,https://www.imdb.com/title/tt10986410
+79.0,Vinland Saga,48,TV Series,8.8,3480.1,8.8,67852.0,24.0,"Animation ,Action ,Adventure",2019,2023.0,https://www.imdb.com/title/tt10233448
+80.0,The Last of Us,10,TV Series,8.7,80565.0,8.8,500632.0,50.0,"Action ,Adventure ,Drama",2023,2050.0,https://www.imdb.com/title/tt3581920
+81.0,Kota Factory,10,TV Series,8.6,1204.7,9.0,79827.0,388.0,"Comedy ,Drama",2019,2021.0,https://www.imdb.com/title/tt9432978
+82.0,Peaky Blinders,36,TV Series,8.6,9406.1,8.8,636162.0,2109.0,"Crime ,Drama",2013,2022.0,https://www.imdb.com/title/tt2442560
+83.0,Gullak,15,TV Series,9.0,554.3,9.1,20955.0,24.0,"Comedy ,Drama ,Family",2019,2050.0,https://www.imdb.com/title/tt10530900
+84.0,Six Feet Under,63,TV Series,8.4,2056.6,8.7,147647.0,60.0,"Comedy ,Drama",2001,2005.0,https://www.imdb.com/title/tt0248654
+85.0,Rome,22,TV Series,8.4,2297.9,8.7,183690.0,1193.0,"Action ,Drama ,Romance",2005,2007.0,https://www.imdb.com/title/tt0384766
+86.0,Oz,56,TV Series,8.4,2064.1,8.7,105865.0,55.0,"Crime ,Drama ,Thriller",1997,2003.0,https://www.imdb.com/title/tt0118421
+87.0,Panchayat,24,TV Series,8.6,871.0,8.9,83682.0,536.0,"Comedy ,Drama",2020,2050.0,https://www.imdb.com/title/tt12004706
+88.0,Steins;Gate,26,TV Series,8.4,1505.2,8.8,72180.0,24.0,"Animation ,Comedy ,Drama",2011,2015.0,https://www.imdb.com/title/tt1910272
+89.0,Blue Eye Samurai,9,TV Series,8.7,2310.1,8.8,56596.0,377.0,"Animation ,Action ,Adventure",2023,2023.0,https://www.imdb.com/title/tt13309742
+90.0,Dark,26,TV Series,8.9,14015.2,8.7,436978.0,1455.0,"Crime ,Drama ,Mystery",2017,2020.0,https://www.imdb.com/title/tt5753856
+91.0,The Boys,32,TV Series,8.6,11453.4,8.7,633315.0,60.0,"Action ,Comedy ,Crime",2019,2050.0,https://www.imdb.com/title/tt1190634
+92.0,Bleach: Thousand-Year Blood War,27,TV Series,8.8,5289.1,9.0,34127.0,24.0,"Animation ,Action ,Adventure",2022,2050.0,https://www.imdb.com/title/tt14986406
+93.0,Fleabag,12,TV Series,8.4,4805.4,8.7,196418.0,302.0,"Comedy ,Drama",2016,2019.0,https://www.imdb.com/title/tt5687612
+94.0,Battlestar Galactica,76,TV Series,8.0,1947.0,8.7,174516.0,44.0,"Action ,Adventure ,Drama",2004,2009.0,https://www.imdb.com/title/tt0407362
+95.0,The Shield,89,TV Series,8.2,2196.3,8.7,87222.0,47.0,"Crime ,Drama ,Thriller",2002,2008.0,https://www.imdb.com/title/tt0286486
+96.0,Downton Abbey,52,TV Series,8.3,1907.1,8.7,222668.0,3110.0,"Drama ,Romance",2010,2015.0,https://www.imdb.com/title/tt1606375
+97.0,The Simpsons,762,TV Series,7.1,1981.0,8.7,432638.0,22.0,"Animation ,Comedy",1989,2050.0,https://www.imdb.com/title/tt0096697
+98.0,Berserk,25,TV Series,8.1,901.9,8.7,51320.0,23.0,"Animation ,Action ,Adventure",1997,1998.0,https://www.imdb.com/title/tt0318871
+99.0,Arrested Development,84,TV Series,8.1,2130.7,8.7,322223.0,22.0,Comedy,2003,2019.0,https://www.imdb.com/title/tt0367279
+100.0,House,176,TV Series,8.4,3139.6,8.7,504036.0,7788.0,"Drama ,Mystery",2004,2012.0,https://www.imdb.com/title/tt0412142
+101.0,Severance,19,TV Series,8.3,3464.5,8.7,191955.0,55.0,"Drama ,Mystery ,Sci-Fi",2022,2050.0,https://www.imdb.com/title/tt11280740
+102.0,One Punch Man,25,TV Series,8.4,3218.2,8.7,183314.0,24.0,"Animation ,Action ,Comedy",2015,2019.0,https://www.imdb.com/title/tt4508902
+103.0,Invincible,18,TV Series,8.5,5478.1,8.7,190824.0,50.0,"Animation ,Action ,Adventure",2021,2050.0,https://www.imdb.com/title/tt6741278
+104.0,Mad Men,92,TV Series,8.4,2785.4,8.7,258393.0,4400.0,Drama,2007,2015.0,https://www.imdb.com/title/tt0804503
+105.0,Peep Show,54,TV Series,8.1,691.7,8.7,65906.0,25.0,Comedy,2003,2015.0,https://www.imdb.com/title/tt0387764
+106.0,Star Trek: The Next Generation,176,TV Series,7.3,3567.8,8.7,134328.0,44.0,"Action ,Adventure ,Drama",1987,1994.0,https://www.imdb.com/title/tt0092455
+107.0,Stranger Things,42,TV Series,8.6,19027.1,8.7,1317933.0,51.0,"Drama ,Fantasy ,Horror",2016,2025.0,https://www.imdb.com/title/tt4574334
+108.0,Mahabharat,50,TV Series,6.2,59.4,8.9,23062.0,45.0,"Action ,Adventure ,Drama",1988,1990.0,https://www.imdb.com/title/tt0158417
+109.0,The Adventures of Sherlock Holmes,13,TV Series,8.1,1167.6,8.7,23990.0,688.0,"Crime ,Drama ,Mystery",1984,1985.0,https://www.imdb.com/title/tt0086661
+110.0,The Marvelous Mrs. Maisel,43,TV Series,8.4,2046.8,8.7,141287.0,2408.0,"Comedy ,Drama",2017,2023.0,https://www.imdb.com/title/tt5788792
+111.0,The Grand Tour,46,TV Series,8.3,2069.6,8.7,82313.0,60.0,"Comedy ,Sport ,Talk-Show",2016,2024.0,https://www.imdb.com/title/tt5712554
+112.0,Aspirants,10,TV Series,8.8,3546.6,9.2,309999.0,443.0,Drama,2021,2050.0,https://www.imdb.com/title/tt14392248
+113.0,Justice League Unlimited,39,TV Series,8.1,726.3,8.7,19913.0,23.0,"Animation ,Action ,Adventure",2004,2006.0,https://www.imdb.com/title/tt6025022
+114.0,Friday Night Lights,76,TV Series,8.2,590.1,8.7,71892.0,44.0,"Drama ,Sport",2006,2011.0,https://www.imdb.com/title/tt0758745
+115.0,Sarabhai V/S Sarabhai,60,TV Series,8.4,87.1,8.9,18060.0,30.0,Comedy,2004,2017.0,https://www.imdb.com/title/tt1518542
+116.0,The Mandalorian,25,TV Series,8.4,24986.9,8.7,579553.0,40.0,"Action ,Adventure ,Fantasy",2019,2050.0,https://www.imdb.com/title/tt8111088
+117.0,Behzat Ç: An Ankara Detective Story,105,TV Series,8.3,131.3,8.9,32595.0,90.0,"Crime ,Drama ,Mystery",2010,2019.0,https://www.imdb.com/title/tt1795096
+118.0,Top Gear,295,TV Series,7.1,286.3,8.7,125800.0,60.0,"Adventure ,Sport ,Talk-Show",2002,2022.0,https://www.imdb.com/title/tt1628033
+119.0,Line of Duty,37,TV Series,8.4,1362.6,8.7,69072.0,60.0,"Crime ,Drama ,Mystery",2012,2021.0,https://www.imdb.com/title/tt2303687
+120.0,1883,10,TV Mini Series,8.6,3795.9,8.7,112131.0,562.0,"Drama ,Western",2021,2022.0,https://www.imdb.com/title/tt13991232
+121.0,The Thick of It,24,TV Series,8.1,444.3,8.7,25851.0,29.0,Comedy,2005,2012.0,https://www.imdb.com/title/tt0459159
+122.0,Naruto: Shippuden,51,TV Series,7.7,670.9,8.7,162989.0,24.0,"Animation ,Action ,Adventure",2007,2017.0,https://www.imdb.com/title/tt0988824
+123.0,Monster,51,TV Series,8.2,899.4,8.7,42916.0,24.0,"Animation ,Crime ,Drama",2004,2005.0,https://www.imdb.com/title/tt0434706
+124.0,House of Cards,73,TV Series,8.0,4575.0,8.6,527910.0,3804.0,Drama,2013,2018.0,https://www.imdb.com/title/tt1856010
+125.0,Ramayan,50,TV Series,9.1,55.6,9.0,23589.0,30.0,"Adventure ,Drama ,Family",1987,1988.0,https://www.imdb.com/title/tt0268093
+126.0,How to with John Wilson,18,TV Series,8.5,449.4,8.7,12859.0,30.0,"Documentary ,Comedy",2020,2023.0,https://www.imdb.com/title/tt10801534
+127.0,This Is Us,106,TV Series,8.6,2078.4,8.7,157096.0,45.0,"Comedy ,Drama ,Romance",2016,2022.0,https://www.imdb.com/title/tt5555260
+128.0,Father Ted,25,TV Series,8.3,624.3,8.7,43398.0,25.0,Comedy,1995,1998.0,https://www.imdb.com/title/tt0111958
+129.0,Atlanta,41,TV Series,8.4,2849.1,8.6,86571.0,30.0,"Comedy ,Drama ,Music",2016,2022.0,https://www.imdb.com/title/tt4288182
+130.0,Parks and Recreation,124,TV Series,8.1,2475.2,8.6,284978.0,22.0,Comedy,2009,2015.0,https://www.imdb.com/title/tt1266020
+131.0,The Crown,60,TV Series,8.3,4149.1,8.6,253436.0,58.0,"Biography ,Drama ,History",2016,2023.0,https://www.imdb.com/title/tt4786824
+132.0,Deadwood,36,TV Series,8.3,1746.3,8.6,116585.0,55.0,"Crime ,Drama ,History",2004,2006.0,https://www.imdb.com/title/tt0348914
+133.0,The X-Files,217,TV Series,7.8,4204.8,8.6,246863.0,45.0,"Crime ,Drama ,Mystery",1993,2018.0,https://www.imdb.com/title/tt0106179
+134.0,Dexter,96,TV Series,8.5,5696.1,8.7,758803.0,55.0,"Crime ,Drama ,Mystery",2006,2013.0,https://www.imdb.com/title/tt0773262
+135.0,Critical Role,150,TV Series,8.2,48.9,9.2,12053.0,180.0,"Adventure ,Fantasy",2015,2050.0,https://www.imdb.com/title/tt4834232
+136.0,Code Geass,54,TV Series,8.2,1155.1,8.7,78841.0,24.0,"Animation ,Action ,Drama",2006,2008.0,https://www.imdb.com/title/tt0994314
+137.0,Primal,21,TV Series,8.7,1028.1,8.7,19910.0,22.0,"Animation ,Action ,Adventure",2019,2050.0,https://www.imdb.com/title/tt10332508
+138.0,It's a Sin,5,TV Mini Series,8.8,1466.8,8.7,36401.0,239.0,"Comedy ,Drama ,History",2021,2021.0,https://www.imdb.com/title/tt9140342
+139.0,The Jinx: The Life and Deaths of Robert Durst,12,TV Series,8.5,513.4,8.6,50752.0,279.0,"Documentary ,Biography ,Crime",2015,2024.0,https://www.imdb.com/title/tt4299972
+140.0,Adventure Time,287,TV Series,7.9,1648.1,8.6,110369.0,11.0,"Animation ,Action ,Adventure",2010,2018.0,https://www.imdb.com/title/tt1305826
+141.0,The Bridge,38,TV Series,8.1,977.1,8.6,75950.0,60.0,"Crime ,Mystery ,Thriller",2011,2018.0,https://www.imdb.com/title/tt1733785
+142.0,Daredevil,39,TV Series,8.8,9733.4,8.6,470792.0,54.0,"Action ,Crime ,Drama",2015,2018.0,https://www.imdb.com/title/tt3322312
+143.0,Blackadder II,6,TV Series,8.2,1095.2,8.6,49501.0,176.0,Comedy,1986,1986.0,https://www.imdb.com/title/tt0088484
+144.0,Lonesome Dove,4,TV Mini Series,8.4,502.0,8.7,25550.0,384.0,"Adventure ,Drama ,Western",1989,1989.0,https://www.imdb.com/title/tt0096639
+145.0,Yeh Meri Family,12,TV Series,8.2,276.7,9.0,25299.0,30.0,"Comedy ,Drama ,Family",2018,2023.0,https://www.imdb.com/title/tt8595766
+146.0,Mindhunter,19,TV Series,8.4,6217.4,8.6,330337.0,60.0,"Crime ,Drama ,Mystery",2017,2019.0,https://www.imdb.com/title/tt5290382
+147.0,The Return of Sherlock Holmes,13,TV Series,8.0,780.5,8.7,13281.0,781.0,"Crime ,Drama ,Mystery",1986,1988.0,https://www.imdb.com/title/tt0090509
+148.0,Haikyu!!,89,TV Series,8.5,562.4,8.7,34114.0,24.0,"Animation ,Comedy ,Drama",2014,2020.0,https://www.imdb.com/title/tt3398540
+149.0,The Offer,10,TV Mini Series,8.5,1264.9,8.6,38890.0,586.0,"Biography ,Drama",2022,2022.0,https://www.imdb.com/title/tt13111040
+150.0,Gomorrah,58,TV Series,8.2,614.5,8.6,43955.0,55.0,"Crime ,Drama ,Thriller",2014,2021.0,https://www.imdb.com/title/tt2049116
+151.0,Poirot,70,TV Series,7.6,1993.4,8.6,51348.0,100.0,"Crime ,Drama ,Mystery",1989,2013.0,https://www.imdb.com/title/tt0094525
+152.0,Mr. Bean,15,TV Series,8.6,1839.5,8.6,131777.0,25.0,"Comedy ,Family",1990,1995.0,https://www.imdb.com/title/tt0096657
+153.0,Mystery Science Theater 3000,199,TV Series,7.6,539.3,8.6,25716.0,92.0,"Comedy ,Sci-Fi",1988,1999.0,https://www.imdb.com/title/tt0094517
+154.0,Scavengers Reign,12,TV Mini Series,8.5,546.8,8.7,13332.0,24.0,"Animation ,Adventure ,Drama",2023,2023.0,https://www.imdb.com/title/tt21056886
+155.0,Blackadder the Third,6,TV Series,8.3,997.7,8.6,46754.0,180.0,Comedy,1987,1987.0,https://www.imdb.com/title/tt0092324
+156.0,Demon Slayer: Kimetsu no Yaiba,66,TV Series,8.5,3986.1,8.6,142798.0,24.0,"Animation ,Action ,Adventure",2019,2050.0,https://www.imdb.com/title/tt9335498
+157.0,Archer,144,TV Series,7.9,1295.1,8.6,164775.0,22.0,"Animation ,Action ,Comedy",2009,2023.0,https://www.imdb.com/title/tt1486217
+158.0,Pose,26,TV Series,8.7,863.0,8.6,32486.0,60.0,Drama,2018,2021.0,https://www.imdb.com/title/tt7562112
+159.0,Crash Landing on You,19,TV Series,8.6,518.9,8.7,40158.0,70.0,"Adventure ,Comedy ,Romance",2019,2020.0,https://www.imdb.com/title/tt10850932
+160.0,Anne with an E,27,TV Series,8.7,2031.5,8.6,65102.0,60.0,"Drama ,Family",2017,2019.0,https://www.imdb.com/title/tt5421602
+161.0,Young Justice,102,TV Series,8.9,2486.5,8.6,44936.0,23.0,"Animation ,Action ,Adventure",2010,2023.0,https://www.imdb.com/title/tt1641384
+162.0,Dopesick,8,TV Mini Series,8.5,1706.1,8.6,75584.0,492.0,Drama,2021,2021.0,https://www.imdb.com/title/tt9174558
+163.0,Yes Minister,22,TV Series,8.3,345.6,8.7,16357.0,30.0,Comedy,1980,1984.0,https://www.imdb.com/title/tt0080306
+164.0,Greatest Events of WWII in Colour,10,TV Mini Series,8.3,505.6,8.7,10373.0,50.0,"Documentary ,History ,War",2019,2019.0,https://www.imdb.com/title/tt9103932
+165.0,Yellowstone,53,TV Series,8.2,2278.8,8.7,211292.0,60.0,"Drama ,Western",2018,2050.0,https://www.imdb.com/title/tt4236770
+166.0,The Bear,19,TV Series,8.5,6794.8,8.6,198349.0,35.0,"Comedy ,Drama",2022,2050.0,https://www.imdb.com/title/tt14452776
+167.0,The Newsroom,25,TV Series,8.5,1820.5,8.6,123664.0,55.0,Drama,2012,2014.0,https://www.imdb.com/title/tt1870479
+168.0,QI,333,TV Series,7.1,87.4,8.6,33421.0,30.0,"Comedy ,Game-Show",2003,2050.0,https://www.imdb.com/title/tt0380136
+169.0,Mr Inbetween,26,TV Series,8.3,713.7,8.6,28624.0,30.0,"Crime ,Drama",2018,2021.0,https://www.imdb.com/title/tt7472896
+170.0,Boardwalk Empire,56,TV Series,8.4,2197.6,8.6,201746.0,55.0,"Crime ,Drama",2010,2014.0,https://www.imdb.com/title/tt0979432
+171.0,Justified,78,TV Series,8.4,1591.6,8.6,117321.0,3400.0,"Action ,Crime ,Drama",2010,2015.0,https://www.imdb.com/title/tt1489428
+172.0,The Bugs Bunny Show,186,TV Series,7.5,18.0,8.6,35512.0,30.0,"Animation ,Comedy",1960,1975.0,https://www.imdb.com/title/tt0053488
+173.0,The Haunting of Hill House,10,TV Mini Series,8.6,9835.5,8.6,284422.0,572.0,"Drama ,Horror ,Mystery",2018,2018.0,https://www.imdb.com/title/tt6763664
+174.0,El Chavo del Ocho,356,TV Series,7.4,12.9,8.7,12455.0,30.0,"Comedy ,Family",1972,1983.0,https://www.imdb.com/title/tt0229889
+175.0,The Bureau,50,TV Series,8.1,228.6,8.7,13881.0,52.0,"Drama ,Thriller",2015,2020.0,https://www.imdb.com/title/tt4063800
+176.0,Homicide: Life on the Street,122,TV Series,8.1,145.4,8.7,14027.0,60.0,"Crime ,Drama ,Mystery",1993,1999.0,https://www.imdb.com/title/tt0106028
+177.0,What We Do in the Shadows,51,TV Series,8.2,1911.9,8.6,100298.0,30.0,"Comedy ,Fantasy ,Horror",2019,2024.0,https://www.imdb.com/title/tt7908628
+178.0,Justice League,52,TV Series,8.1,793.1,8.6,51189.0,22.0,"Animation ,Action ,Adventure",2001,2004.0,https://www.imdb.com/title/tt0275137
+179.0,The Venture Bros.,86,TV Series,8.3,291.8,8.6,27872.0,22.0,"Animation ,Action ,Adventure",2003,2018.0,https://www.imdb.com/title/tt0417373
+180.0,The Queen's Gambit,7,TV Mini Series,8.5,10987.3,8.5,540924.0,397.0,Drama,2020,2020.0,https://www.imdb.com/title/tt10048342
+181.0,Dragon Ball,203,TV Series,7.4,432.4,8.5,64850.0,25.0,"Animation ,Action ,Adventure",1986,1989.0,https://www.imdb.com/title/tt0088509
+182.0,Battlestar Galactica,76,TV Mini Series,8.4,1418.0,8.5,79734.0,183.0,"Action ,Adventure ,Drama",2003,2003.0,https://www.imdb.com/title/tt0314979
+183.0,Making a Murderer,20,TV Series,8.3,1234.1,8.5,102152.0,60.0,"Documentary ,Crime",2015,2018.0,https://www.imdb.com/title/tt5189670
+184.0,The Family Man,20,TV Series,8.7,2747.0,8.7,97614.0,45.0,"Action ,Comedy ,Drama",2019,2050.0,https://www.imdb.com/title/tt9544034
+185.0,Flight of the Conchords,22,TV Series,8.2,704.8,8.6,65607.0,28.0,"Comedy ,Music ,Musical",2007,2009.0,https://www.imdb.com/title/tt0863046
+186.0,Dragon Ball,203,TV Series,7.6,346.7,8.5,64469.0,24.0,"Animation ,Action ,Adventure",1995,2003.0,https://www.imdb.com/title/tt0280249
+187.0,Jujutsu Kaisen,48,TV Series,8.8,5672.0,8.6,106564.0,24.0,"Animation ,Action ,Adventure",2020,2050.0,https://www.imdb.com/title/tt12343534
+188.0,Coupling,28,TV Series,8.4,585.8,8.6,47458.0,30.0,"Comedy ,Romance",2000,2004.0,https://www.imdb.com/title/tt0237123
+189.0,Black Sun,20,TV Series,8.9,200.3,8.9,12312.0,60.0,"Crime ,Drama ,Thriller",2017,2050.0,https://www.imdb.com/title/tt6108262
+190.0,"Yes, Prime Minister",16,TV Series,8.4,283.3,8.6,12748.0,30.0,Comedy,1986,1987.0,https://www.imdb.com/title/tt0086831
+191.0,Rocket Boys,17,TV Series,8.6,195.2,8.9,17796.0,45.0,"Drama ,History",2022,2050.0,https://www.imdb.com/title/tt13868972
+192.0,Impractical Jokers,282,TV Series,8.0,156.9,8.6,45217.0,30.0,"Comedy ,Reality-TV",2011,2050.0,https://www.imdb.com/title/tt2100976
+193.0,Samurai Champloo,26,TV Series,8.1,631.7,8.6,54591.0,24.0,"Animation ,Action ,Adventure",2004,2005.0,https://www.imdb.com/title/tt0423731
+194.0,The Eric Andre Show,69,TV Series,8.3,196.7,8.6,21623.0,11.0,"Comedy ,Talk-Show",2012,2050.0,https://www.imdb.com/title/tt2244495
+195.0,Endeavour,36,TV Series,8.3,1284.6,8.6,32912.0,89.0,"Crime ,Drama ,Mystery",2012,2023.0,https://www.imdb.com/title/tt2701582
+196.0,Spaced,14,TV Series,8.2,974.3,8.5,57335.0,25.0,Comedy,1999,2001.0,https://www.imdb.com/title/tt0187664
+197.0,The IT Crowd,25,TV Series,8.1,2537.5,8.5,163092.0,25.0,Comedy,2006,2013.0,https://www.imdb.com/title/tt0487831
+198.0,Mr. Robot,45,TV Series,8.9,10334.1,8.5,414751.0,49.0,"Crime ,Drama ,Thriller",2015,2019.0,https://www.imdb.com/title/tt4158110
+199.0,Ezel,71,TV Series,8.6,242.2,8.7,36708.0,90.0,"Crime ,Drama ,Thriller",2009,2011.0,https://www.imdb.com/title/tt1534360
+200.0,I'm Alan Partridge,12,TV Series,8.5,324.9,8.6,21809.0,29.0,Comedy,1997,2002.0,https://www.imdb.com/title/tt0129690
+201.0,Long Way Round,10,TV Mini Series,7.6,165.1,8.6,15156.0,315.0,"Documentary ,Adventure",2004,2010.0,https://www.imdb.com/title/tt0403778
+202.0,Formula 1: Drive to Survive,51,TV Series,7.6,803.4,8.5,49359.0,40.0,"Documentary ,Sport",2019,2050.0,https://www.imdb.com/title/tt8289930
+203.0,Samurai Jack,62,TV Series,8.5,789.6,8.5,58920.0,23.0,"Animation ,Action ,Adventure",2001,2017.0,https://www.imdb.com/title/tt0278238
+204.0,Mob Psycho 100,37,TV Series,8.5,1127.9,8.6,43493.0,24.0,"Animation ,Action ,Comedy",2016,2022.0,https://www.imdb.com/title/tt5897304
+205.0,Detectorists,20,TV Series,8.1,443.2,8.6,20770.0,30.0,Comedy,2014,2022.0,https://www.imdb.com/title/tt4082744
+206.0,Louie,61,TV Series,8.2,831.7,8.5,81857.0,22.0,"Comedy ,Drama",2010,2015.0,https://www.imdb.com/title/tt1492966
+207.0,Heartstopper,24,TV Series,8.8,1590.5,8.6,74917.0,30.0,"Drama ,Romance",2022,2050.0,https://www.imdb.com/title/tt10638036
+208.0,Whose Line Is It Anyway?,220,TV Series,7.8,54.6,8.5,46123.0,30.0,"Comedy ,Game-Show",1998,2007.0,https://www.imdb.com/title/tt0163507
+209.0,Spartacus,33,TV Series,8.6,3499.2,8.5,255127.0,55.0,"Action ,Adventure ,Biography",2010,2013.0,https://www.imdb.com/title/tt1442449
+210.0,The Office,202,TV Series,8.3,2066.6,8.5,122113.0,455.0,"Comedy ,Drama",2001,2003.0,https://www.imdb.com/title/tt0290978
+211.0,Happy Valley,18,TV Series,8.4,1126.9,8.5,63419.0,1059.0,"Crime ,Drama ,Thriller",2014,2023.0,https://www.imdb.com/title/tt3428912
+212.0,Through the Wormhole,62,TV Series,7.6,116.2,8.6,18351.0,60.0,Documentary,2010,2017.0,https://www.imdb.com/title/tt1513168
+213.0,Sons of Anarchy,92,TV Series,8.5,2909.4,8.6,320234.0,45.0,"Crime ,Drama ,Thriller",2008,2014.0,https://www.imdb.com/title/tt1124373
+214.0,Neon Genesis Evangelion,26,TV Series,8.1,2113.6,8.5,83348.0,24.0,"Animation ,Action ,Drama",1995,1996.0,https://www.imdb.com/title/tt0112159
+215.0,Shameless,134,TV Series,8.2,1843.7,8.5,279004.0,46.0,"Comedy ,Drama",2011,2021.0,https://www.imdb.com/title/tt1586680
+216.0,Twin Peaks,48,TV Series,8.6,5014.3,8.5,74830.0,1032.0,"Crime ,Drama ,Horror",2017,2017.0,https://www.imdb.com/title/tt4093826
+217.0,Trailer Park Boys,106,TV Series,8.2,441.3,8.5,49857.0,30.0,"Comedy ,Crime",2001,2018.0,https://www.imdb.com/title/tt0290988
+218.0,Brass Eye,7,TV Series,8.2,302.9,8.6,11481.0,25.0,Comedy,1997,2001.0,https://www.imdb.com/title/tt0118273
+219.0,Skam,43,TV Series,8.2,500.9,8.6,38137.0,30.0,"Drama ,Romance",2015,2017.0,https://www.imdb.com/title/tt5288312
+220.0,Letterkenny,81,TV Series,8.2,291.2,8.6,28773.0,30.0,Comedy,2016,2023.0,https://www.imdb.com/title/tt4647692
+221.0,North & South,4,TV Mini Series,8.2,453.5,8.6,34665.0,235.0,"Drama ,Romance",2004,2004.0,https://www.imdb.com/title/tt0417349
+222.0,Spartacus: Gods of the Arena,6,TV Mini Series,8.5,3966.5,8.5,144548.0,331.0,"Action ,Adventure ,Biography",2011,2011.0,https://www.imdb.com/title/tt1758429
+223.0,Silicon Valley,53,TV Series,8.2,1803.3,8.5,164206.0,28.0,Comedy,2014,2019.0,https://www.imdb.com/title/tt2575988
+224.0,Regular Show,244,TV Series,8.5,2909.7,8.5,56041.0,23.0,"Animation ,Action ,Adventure",2010,2017.0,https://www.imdb.com/title/tt1710308
+225.0,Doctor Who,179,TV Series,7.6,7222.5,8.6,244704.0,45.0,"Adventure ,Drama ,Sci-Fi",2005,2050.0,https://www.imdb.com/title/tt0436992
+226.0,Extraordinary Attorney Woo,16,TV Series,8.4,592.6,8.6,25314.0,75.0,Drama,2022,2022.0,https://www.imdb.com/title/tt20869502
+227.0,Fullmetal Alchemist,50,TV Series,8.0,510.0,8.5,76796.0,24.0,"Animation ,Action ,Adventure",2003,2004.0,https://www.imdb.com/title/tt0421357
+228.0,Schitt's Creek,80,TV Series,8.0,1585.0,8.5,143201.0,22.0,Comedy,2015,2020.0,https://www.imdb.com/title/tt3526078
+229.0,Futurama,180,TV Series,7.7,1968.8,8.5,258935.0,22.0,"Animation ,Adventure ,Comedy",1999,2050.0,https://www.imdb.com/title/tt0149460
+230.0,The Rehearsal,7,TV Series,8.8,1670.7,8.5,25366.0,30.0,"Documentary ,Comedy",2022,2050.0,https://www.imdb.com/title/tt10802170
+231.0,From the Earth to the Moon,12,TV Mini Series,8.0,437.8,8.6,13104.0,60.0,"Action ,Drama ,History",1998,1998.0,https://www.imdb.com/title/tt0120570
+232.0,Rurouni Kenshin: Trust and Betrayal,4,TV Mini Series,8.7,178.5,8.6,16051.0,118.0,"Animation ,Action ,Adventure",1999,1999.0,https://www.imdb.com/title/tt0203082
+233.0,The Expanse,62,TV Series,8.4,3355.4,8.5,170063.0,60.0,"Drama ,Mystery ,Sci-Fi",2015,2022.0,https://www.imdb.com/title/tt3230854
+234.0,Hannibal,39,TV Series,8.7,6605.5,8.5,273846.0,1680.0,"Crime ,Drama ,Horror",2013,2015.0,https://www.imdb.com/title/tt2243973
+235.0,Derry Girls,19,TV Series,8.2,1183.8,8.5,56180.0,30.0,Comedy,2018,2022.0,https://www.imdb.com/title/tt7120662
+236.0,Westworld,36,TV Series,8.3,12099.4,8.5,529228.0,62.0,"Drama ,Mystery ,Sci-Fi",2016,2022.0,https://www.imdb.com/title/tt0475784
+237.0,Umbre,21,TV Series,8.7,186.7,8.7,11329.0,45.0,"Crime ,Drama ,Thriller",2014,2019.0,https://www.imdb.com/title/tt4269716
+238.0,My Brilliant Friend,25,TV Series,8.4,414.8,8.6,17491.0,60.0,Drama,2018,2050.0,https://www.imdb.com/title/tt7278862
+239.0,Wentworth,100,TV Series,8.7,382.3,8.6,24282.0,45.0,"Crime ,Drama ,Thriller",2013,2021.0,https://www.imdb.com/title/tt2433738
+240.0,Community,110,TV Series,8.2,4534.7,8.5,290195.0,22.0,Comedy,2009,2015.0,https://www.imdb.com/title/tt1439629
+241.0,Avrupa Yakasi,190,TV Series,7.7,37.0,8.6,20973.0,60.0,Comedy,2004,2009.0,https://www.imdb.com/title/tt0421291
+242.0,Tear Along the Dotted Line,6,TV Mini Series,8.2,411.0,8.6,12120.0,20.0,"Animation ,Comedy ,Drama",2021,2021.0,https://www.imdb.com/title/tt15614372
+243.0,Your Lie in April,25,TV Series,8.4,757.6,8.6,36820.0,23.0,"Animation ,Comedy ,Drama",2014,2018.0,https://www.imdb.com/title/tt3895150
+244.0,Chef's Table,30,TV Series,8.1,382.3,8.5,16887.0,50.0,"Documentary ,Biography",2015,2019.0,https://www.imdb.com/title/tt4295140
+245.0,Gintama,222,TV Series,8.3,517.4,8.7,14792.0,25.0,"Animation ,Action ,Comedy",2005,2021.0,https://www.imdb.com/title/tt0988818
+246.0,Alchemy of Souls,30,TV Series,8.7,349.6,8.8,16240.0,80.0,"Action ,Drama ,Fantasy",2022,2050.0,https://www.imdb.com/title/tt20859920
+247.0,Foyle's War,28,TV Series,8.3,653.2,8.6,17922.0,90.0,"Crime ,Drama ,Mystery",2002,2015.0,https://www.imdb.com/title/tt0310455
+248.0,Alfred Hitchcock Presents,268,TV Series,7.1,605.7,8.5,19155.0,25.0,"Drama ,Mystery",1955,1962.0,https://www.imdb.com/title/tt0047708
+249.0,Sapne Vs Everyone,5,TV Series,9.7,4998.0,9.5,57621.0,345.0,Drama,2023,2050.0,https://www.imdb.com/title/tt30263074
+250.0,Generation Kill,7,TV Mini Series,8.3,976.9,8.5,58533.0,70.0,"Drama ,War",2008,2008.0,https://www.imdb.com/title/tt0995832
